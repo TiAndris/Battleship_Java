@@ -1,0 +1,6 @@
+content:
+- Theory
+- Custom checked exception
+- Custom exceptions features
+- DriverNotReadyException
+- Handle incorrect inputs

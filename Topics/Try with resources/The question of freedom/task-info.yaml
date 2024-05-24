@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: By automatically closing resources when the try block is finished
+- text: By leaving resources open until the program terminates
+- text: By requiring manual closing of resources when the try block is finished
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/25731#comment
+status: Solved
+record: -1
+local_check: false

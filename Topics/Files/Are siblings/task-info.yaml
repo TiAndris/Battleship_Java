@@ -1,0 +1,24 @@
+type: code
+custom_name: Are siblings?
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.io.File;
+
+    class Siblings {
+
+        public static boolean areSiblings(File f1, File f2) {
+            // implement me
+        }
+    }
+  learner_created: false
+- name: src/numbers
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/8095#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Thu, 03 Aug 2023 07:20:33 UTC"
+record: -1
